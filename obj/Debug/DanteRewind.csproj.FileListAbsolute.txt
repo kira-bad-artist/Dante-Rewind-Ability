@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Danteh\Source\DanteRewind\bin\Debug\DanteRewind.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Danteh\Source\DanteRewind\bin\Debug\DanteRewind.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Danteh\Source\DanteRewind\obj\Debug\DanteRewind.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Danteh\Source\DanteRewind\obj\Debug\DanteRewind.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Danteh\Source\DanteRewind\obj\Debug\DanteRewind.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Danteh\Source\DanteRewind\obj\Debug\DanteRewind.pdb

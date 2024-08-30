@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\danteh\\source\\danterewind\\pactgene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|solutionrelative:pactgene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\hediff_pact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|solutionrelative:hediff_pact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\compproperties_abilitymakeasinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|solutionrelative:compproperties_abilitymakeasinner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\danteh_defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|solutionrelative:danteh_defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\sinneramountgizmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB1DD93-0C50-404A-BC35-48E000CCAA37}|DanteRewind.csproj|solutionrelative:sinneramountgizmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PactGene.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\PactGene.cs",
+              "RelativeDocumentMoniker": "PactGene.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\PactGene.cs",
+              "RelativeToolTip": "PactGene.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:51:39.526Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\Core.cs",
+              "RelativeDocumentMoniker": "Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\Core.cs",
+              "RelativeToolTip": "Core.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:11:11.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompProperties_AbilityMakeASinner.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\CompProperties_AbilityMakeASinner.cs",
+              "RelativeDocumentMoniker": "CompProperties_AbilityMakeASinner.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\CompProperties_AbilityMakeASinner.cs",
+              "RelativeToolTip": "CompProperties_AbilityMakeASinner.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:15:40.491Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Danteh_DefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\Danteh_DefOf.cs",
+              "RelativeDocumentMoniker": "Danteh_DefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\Danteh_DefOf.cs",
+              "RelativeToolTip": "Danteh_DefOf.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:31:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sinnerAmountGizmo.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\sinnerAmountGizmo.cs",
+              "RelativeDocumentMoniker": "sinnerAmountGizmo.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\sinnerAmountGizmo.cs",
+              "RelativeToolTip": "sinnerAmountGizmo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:02:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hediff_Pact.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\Hediff_Pact.cs",
+              "RelativeDocumentMoniker": "Hediff_Pact.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Danteh\\Source\\DanteRewind\\Hediff_Pact.cs",
+              "RelativeToolTip": "Hediff_Pact.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:53:04.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
